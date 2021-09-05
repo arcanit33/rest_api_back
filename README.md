@@ -4,10 +4,21 @@
 
 
 # REST API NODE.JS
+## Необхідні передумови
+1. MongoDB
+2. Node.js + NPM
+3. Insomnia/Postman - для тестування API
 
-## Приклади роботи програми
+## Установка та запуск
+1. `git clone https://github.com/arcanit33/rest_api_back.git`  
+2. `cd rest_api_back`
+3. `npm install`
+4. `npm start`
 
-# Функціональність звичайного користувача
+
+## Демонстрація роботи програми
+
+### Функціональність звичайного користувача
 Можливість створення користувача
 
 https://user-images.githubusercontent.com/47476224/132131838-f7800b42-650e-4fa9-809f-afc2db3af35b.mp4
@@ -25,7 +36,7 @@ https://user-images.githubusercontent.com/47476224/132132223-f52a3f0a-8f0b-4d9b-
 
 https://user-images.githubusercontent.com/47476224/132132230-55001433-bba8-4565-a0a8-3de8c6e85873.mp4
 
-# Функціональність адміністратора
+### Функціональність адміністратора
 
 Можливість перегляду всіх користувачив, його редагування та видалення лише за токеном адміністратора
 
