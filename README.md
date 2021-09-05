@@ -1,6 +1,6 @@
 
 
-https://user-images.githubusercontent.com/47476224/132131838-f7800b42-650e-4fa9-809f-afc2db3af35b.mp4
+
 
 
 # REST API NODE.JS
@@ -9,7 +9,8 @@ https://user-images.githubusercontent.com/47476224/132131838-f7800b42-650e-4fa9-
 
 # Функціонал звичайного користувача
 Можливість створення користувача
-![1](https://user-images.githubusercontent.com/47476224/132131667-5d70d768-cbc4-473f-9eea-2d75f8ef5a45.mp4)
+
+https://user-images.githubusercontent.com/47476224/132131838-f7800b42-650e-4fa9-809f-afc2db3af35b.mp4
 
 Можливість авторизації з перевіркою данних
 ![1](./media/2.gif)
